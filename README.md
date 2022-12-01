@@ -1,4 +1,4 @@
-# flutter_network_connectivity
+# Flutter Connectivity
 
 How To Use Connectivity in Flutter
 
